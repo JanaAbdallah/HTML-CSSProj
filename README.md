@@ -8,12 +8,6 @@ This project is a simple webpage displaying a social media profile for **CodingL
 - **Social Media Links**: Clickable icons linking to Facebook, Twitter (X), Instagram, and YouTube.
 - **Buttons**: "Subscribe" and "Message" buttons for user interaction.
 
-## 📂 File Structure
-
-
-## 📸 Preview
-A screenshot of the project (optional).
-
 ## 🚀 How to Run
 1. Clone this repository:
    git clone https://github.com/yourusername/your-repo.git
